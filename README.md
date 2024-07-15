@@ -59,9 +59,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     no Suno, juntamente com as imagens geradas e a edição precisa no CapCut, resultou em um
     projeto que demonstra o potencial das ferramentas de IA na criação artística.
 
-    
-https://github.com/alevybruno/lab-natty-or-not/blob/main/assets/
-
+https://github.com/alevybruno/lab-natty-or-not/tree/c0a5cbd200786f72c877cc1e5d1f61ff481f2810
 
 🎥 Para assistir ao vídeo com o resultado do projeto [clique aqui](https://youtu.be/k9ZOApvcw4s?si=KzFApfDLkyEG9Y1q).
 
