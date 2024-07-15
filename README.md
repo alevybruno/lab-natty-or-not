@@ -39,7 +39,7 @@
 
 Metal Fury
 
-![](https://github.com/alevybruno/lab-natty-or-not/blame/c0a5cbd200786f72c877cc1e5d1f61ff481f2810/assets/Metalfury_FM.mp4)
+https://github.com/alevybruno/lab-natty-or-not/blame/c0a5cbd200786f72c877cc1e5d1f61ff481f2810/assets/Metalfury_FM.mp4
 
 🎥 Para assistir ao vídeo com o resultado do projeto [clique aqui](https://youtu.be/k9ZOApvcw4s?si=KzFApfDLkyEG9Y1q).
 
