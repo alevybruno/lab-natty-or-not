@@ -60,7 +60,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     projeto que demonstra o potencial das ferramentas de IA na criação artística.
 
     
-https://github.com/alevybruno/lab-natty-or-not/blob/main/assets/Metalfury_FM
+https://github.com/alevybruno/lab-natty-or-not/blob/main/assets/
 
 
 🎥 Para assistir ao vídeo com o resultado do projeto [clique aqui](https://youtu.be/k9ZOApvcw4s?si=KzFApfDLkyEG9Y1q).
