@@ -37,7 +37,9 @@
     no Suno, juntamente com as imagens geradas e a edição precisa no CapCut, resultou em um
     projeto que demonstra o potencial das ferramentas de IA na criação artística.
 
+
 https://github.com/user-attachments/assets/b695a0ff-0500-4179-8573-0e1050b237d1
+
 
 🎥 Para assistir ao vídeo com o resultado do projeto em alta qualidade [clique aqui](https://youtu.be/k9ZOApvcw4s?si=KzFApfDLkyEG9Y1q).
 
